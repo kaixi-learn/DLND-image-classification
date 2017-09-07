@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# pickle files
+*.p
+
+# cifar image database
+cifar-10-*
+
+# iamge classification file
+image_classification.*
+
+# Check point file
+checkpoint
